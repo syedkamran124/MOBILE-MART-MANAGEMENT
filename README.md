@@ -1,4 +1,4 @@
 # MOBILE-MART-MANAGEMENT
-Medical Store Management Project is mainly used by medical stores to maintain the details of medical store such as stock analysis and account management. This software is designed to ease the work load of medical store handlers. Project gives Admin to maintain stock by keeping records of every medicine, stock analysis, update and delete records, customers information etc.
+Medical Mart Management Project is mainly used by mobile stores to maintain the details of mobile shop such as stock analysis and account management. This software is designed to ease the work load of mobile shop handlers. This project has two main modules :- Admin and Employee. Admin module can maintain not only stock management but also employee managment. Employee module can sell stocks and manages and bill administration.
 
 This is a stand alone application based on Java Swing and for the database MySQL is used.
